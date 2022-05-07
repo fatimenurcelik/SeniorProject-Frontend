@@ -1,0 +1,14 @@
+.hero{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: auto;
+    margin-left: 60px;
+    margin-right: 60px;
+    color: #3669c7;;
+}
+.image{
+    width: 90%;
+    display: block;
+    margin-left: 90px;
+    margin-top: 50px;
+}

@@ -1,0 +1,18 @@
+.colRight{
+    /* background-color: rgb(240, 217, 217); */
+    padding-left: 5em;
+}
+.buton{
+    margin: 1em;
+}
+.colLeft{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: auto;
+    margin-left: 60px;
+    margin-right: 60px;
+    color: #3a7fe7;
+}
+.yazi{
+    line-height: 1.7em;
+}
